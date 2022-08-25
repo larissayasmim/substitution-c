@@ -3,7 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 
-//Determinar a quantidade de argumentos
+//Determina a quantidade de argumentos
 int main ( int argc, string argv [])
 {
   if (argc !=2)
@@ -22,7 +22,7 @@ int main ( int argc, string argv [])
        }
    }
 
-  //Determinar o tamanho da chave
+  //Determina o tamanho da chave
    if (strlen(key)!=26)
    {
      printf("Key must contain 26 characters.\n");
@@ -43,7 +43,7 @@ int main ( int argc, string argv [])
 
        string plaintext = get_string("plaintext: ");
 
-       //Imprimir o texto cifrado
+       //Imprime o texto cifrado
        for (int i = 0; i < strlen(key); i++)
        {
          if (islower(key[i]))
