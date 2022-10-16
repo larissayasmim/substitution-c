@@ -36,24 +36,24 @@ When the program is run, a key is required on the command line<br> and then the 
 <img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665953539/Substituition/substituition1_cifupq.png"/>
 <br>
 
-## :closed_lock_with_key: &nbsp; Invalid input value: no value or more than one value as key
+## :closed_lock_with_key: &nbsp; Invalid input value: no value or less than 26 characters
 <img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665953539/Substituition/substituition2_civhkz.png"/>
 <br>
 
 ## :closed_lock_with_key: &nbsp; Execution
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665782288/Caesar/caesarvideo10_online-video-cutter.com_h4m1qs.gif"/>
+<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665953531/Substituition/substituitionvideo_online-video-cutter.com_sjebja.gif"/>
 <br>
 
 ## :computer:  &nbsp; Technologies
 This project was developed with the following technologies:
 
 - C
--  GitHub Codespace
+- GitHub Codespace
 
 <br>
 
 ## :page_with_curl: &nbsp; License
-This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/caesar-c/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/substitution-c/blob/main/LICENSE) for more information.
 
 <br>
 
