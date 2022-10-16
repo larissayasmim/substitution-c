@@ -19,8 +19,8 @@
 
 ## :memo: &nbsp;&nbsp; Brief
 <p>Substitution lets you encrypt messages using a substitution cipher.
-It “encrypts”(reversibly hides) a message <br>by replacing each letter with another. For this, use a key, which for example can be a sequence <br> NQXPOMAFTRHLZGECYJIUWSKDVB. This 26-character key means that A (the first letter of the alphabet) must <br>be converted to N (the first character of the key), B (the letter of the alphabet) must be converted to Q (the <br>second character of the key), and so on.
-When the program is run, a key is required on the command line<br> and then the message to be encrypted.</p>
+It “encrypts”(reversibly hides) a message by replacing each letter with another. For this, use a key, which for example can be a sequence NQXPOMAFTRHLZGECYJIUWSKDVB. This 26-character key means that A (the first letter of the alphabet) must be converted to N (the first character of the key), B (the letter of the alphabet) must be converted to Q (the second character of the key), and so on.
+When the program is run, a key is required on the command line and then the message to be encrypted.</p>
 
 
 <br>
@@ -33,15 +33,15 @@ When the program is run, a key is required on the command line<br> and then the 
 <br>
 
 ## :closed_lock_with_key: &nbsp; Print the encrypted text
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665953539/Substituition/substituition1_cifupq.png"/>
+<img align="center" height="auto" width="500" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665958286/Substituition/3.1substitutio_xaobnz.png"/>
 <br>
 
 ## :closed_lock_with_key: &nbsp; Invalid input value: no value or less than 26 characters
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665953539/Substituition/substituition2_civhkz.png"/>
+<img align="center" height="auto" width="500" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665958166/Substituition/3SUBSTITUTION_f7uoq2.png"/>
 <br>
 
 ## :closed_lock_with_key: &nbsp; Execution
-<img align="center" height="auto" width="600" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665953531/Substituition/substituitionvideo_online-video-cutter.com_sjebja.gif"/>
+<img align="center" height="auto" width="500" alt="Imprimindo o texto criptografado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665958201/Substituition/3videosubstitution_online-video-cutter.com_inb01z.gif"/>
 <br>
 
 ## :computer:  &nbsp; Technologies
